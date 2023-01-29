@@ -7,9 +7,9 @@
   <a href="https://github.com/Guallter">
 </div>
   
-[![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=Guallter&layout=compact&langs_count=10&theme=github_dark)](https://github.com/Guallter/github-readme-stats)
+[![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=GualterAlbino&layout=compact&langs_count=10&theme=github_dark)](https://github.com/GualterAlbino/github-readme-stats)
 <br>
-![Status geral:](https://github-readme-stats.vercel.app/api?username=Guallter&show_icons=true&theme=github_dark)
+![Status geral:](https://github-readme-stats.vercel.app/api?username=GualterAlbino&show_icons=true&theme=github_dark)
 <br>
  
 <div style="display: inline_block"> 
@@ -23,10 +23,10 @@
 </div>
 <br>
 
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guallter&repo=OneBitCode&theme=react)](https://github.com/Guallter/OneBitCode)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guallter&repo=ChatBot&theme=react)](https://github.com/Guallter/ChatBot)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guallter&repo=Guallter&theme=react)](https://github.com/Guallter/Guallter)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guallter&repo=Guallter&theme=react)](https://github.com/Guallter/Guallter)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=OneBitCode&theme=react)](https://github.com/GualterAlbino/OneBitCode)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=GualterAlbino&theme=react)](https://github.com/GualterAlbino/GualterAlbino)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=GualterAlbino&theme=react)](https://github.com/GualterAlbino/GualterAlbino)
 
  ![Snake animation](https://github.com/Guallter/Guallter/blob/output/github-contribution-grid-snake.svg)
 
