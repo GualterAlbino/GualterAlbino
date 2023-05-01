@@ -28,7 +28,7 @@
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=GualterAlbino&theme=react)](https://github.com/GualterAlbino/Evernote)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=GualterAlbino&theme=react)](https://github.com/GualterAlbino/GualterAlbino)
 
- ![Snake animation](https://github.com/Guallter/Guallter/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/Guallter/Guallter/blob/output/github-contribution-grid-snake.svg)-->
 
   
 <div>
