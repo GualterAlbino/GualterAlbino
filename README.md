@@ -17,7 +17,7 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="ReactNative" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="git"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
@@ -28,7 +28,7 @@
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=GualterAlbino&theme=react)](https://github.com/GualterAlbino/Evernote)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=GualterAlbino&theme=react)](https://github.com/GualterAlbino/GualterAlbino)
 
- <!--![Snake animation](https://github.com/Guallter/Guallter/blob/output/github-contribution-grid-snake.svg)-->
+ <!--[!Snake animation](https://github.com/GualterAlbino/GualterAlbino/blob/output/github-contribution-grid-snake.svg)-->
 
   
 <div>
