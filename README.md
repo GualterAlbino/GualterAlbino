@@ -29,8 +29,8 @@
   
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=OneBitCode&theme=react)](https://github.com/GualterAlbino/OneBitCode)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=GualterAlbino&theme=react)](https://github.com/GualterAlbino/Evernote)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=GualterAlbino&theme=react)](https://github.com/GualterAlbino/GualterAlbino)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=Evernote&theme=react)](https://github.com/GualterAlbino/Evernote)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=CheckList&theme=react)](https://github.com/GualterAlbino/CheckList)
   
 </div>
  <!--[!Snake animation](https://github.com/GualterAlbino/GualterAlbino/blob/output/github-contribution-grid-snake.svg)-->
