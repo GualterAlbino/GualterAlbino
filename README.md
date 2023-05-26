@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p><img src="https://readme-typing-svg.demolab.com/?lines=<Error/>%20&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&size=22&pause=3000"</p>
+  <p><img src="https://readme-typing-svg.demolab.com/?lines=< / >%20&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&size=22&pause=3000"</p>
   <p><img src="https://readme-typing-svg.demolab.com/?lines=.%20.%20.%20&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&size=22&pause=3000"</p>
   <h1></h1>
 </div>
@@ -9,9 +9,9 @@
   <h2>Estatísticas:</h2>
   <a href="https://github.com/Guallter">
     
-  [![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=GualterAlbino&layout=compact&langs_count=10&theme=github_dark)] 
+  [![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=GualterAlbino&layout=compact&langs_count=10&theme=github_dark&custom_title=Linguagems%20Mais%20Utilizadas&count_private=true)] 
   <br>
-  ![Status geral:](https://github-readme-stats.vercel.app/api?username=GualterAlbino&show_icons=true&theme=github_dark)
+  ![Status geral:](https://github-readme-stats.vercel.app/api?username=GualterAlbino&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&custom_title=Atividade)
   <br>
 </div>
   
