@@ -9,9 +9,9 @@
   <h2>Estatísticas:</h2>
   <a href="https://github.com/Guallter">
     
-  [![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=GualterAlbino&layout=compact&langs_count=10&theme=github_dark&custom_title=Linguagems%20Mais%20Utilizadas&count_private=true)] 
+  [![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=gualteralbino&layout=compact&langs_count=10&theme=github_dark&custom_title=Linguagems%20Mais%20Utilizadas&count_private=true)] 
   <br>
-  ![Status geral:](https://github-readme-stats.vercel.app/api?username=GualterAlbino&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&custom_title=Atividade)
+  ![Status geral:](https://github-readme-stats.vercel.app/api?username=gualteralbino&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&custom_title=Atividade)
   <br>
 </div>
   
@@ -27,10 +27,10 @@
 <br>
 <div align="center" heigth="40" width="50">
   
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=OneBitCode&theme=react)](https://github.com/GualterAlbino/OneBitCode)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=Evernote&theme=react)](https://github.com/GualterAlbino/Evernote)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GualterAlbino&repo=CheckList&theme=react)](https://github.com/GualterAlbino/CheckList)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=OneBitCode&theme=react)](https://github.com/GualterAlbino/OneBitCode)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Abacus&theme=react)](https://github.com/GualterAlbino/Abacus)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=CheckList&theme=react)](https://github.com/GualterAlbino/CheckList)
   
 </div>
  <!--[!Snake animation](https://github.com/GualterAlbino/GualterAlbino/blob/output/github-contribution-grid-snake.svg)-->
