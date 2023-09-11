@@ -30,7 +30,7 @@
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=OneBitCode&theme=react)](https://github.com/GualterAlbino/OneBitCode)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Abacus&theme=react)](https://github.com/GualterAlbino/Abacus)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=CheckList&theme=react)](https://github.com/GualterAlbino/Karto)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Karto&theme=react)](https://github.com/GualterAlbino/Karto)
   
 </div>
  <!--[!Snake animation](https://github.com/GualterAlbino/GualterAlbino/blob/output/github-contribution-grid-snake.svg)-->
