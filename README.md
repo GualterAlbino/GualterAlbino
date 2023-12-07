@@ -29,7 +29,7 @@
 
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Karto&theme=react)](https://github.com/GualterAlbino/Karto)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Abacus&theme=react)](https://github.com/GualterAlbino/Abacus)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=OneBitCode&theme=react)](https://github.com/GualterAlbino/CarteiraDeInvestimentos)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=CarteiraDeInvestimentos&theme=react)](https://github.com/GualterAlbino/CarteiraDeInvestimentos)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
 
 
