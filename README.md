@@ -26,11 +26,13 @@
 </div>
 <br>
 <div align="center" heigth="40" width="50">
-  
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=OneBitCode&theme=react)](https://github.com/GualterAlbino/OneBitCode)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Abacus&theme=react)](https://github.com/GualterAlbino/Abacus)
+
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Karto&theme=react)](https://github.com/GualterAlbino/Karto)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Abacus&theme=react)](https://github.com/GualterAlbino/Abacus)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=OneBitCode&theme=react)](https://github.com/GualterAlbino/CarteiraDeInvestimentos)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
+
+
   
 </div>
  <!--[!Snake animation](https://github.com/GualterAlbino/GualterAlbino/blob/output/github-contribution-grid-snake.svg)-->
