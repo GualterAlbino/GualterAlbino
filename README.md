@@ -6,6 +6,11 @@
 </div>
 
 <div align="center">
+  <h2>Contato:</h2>
+  <a href="https://www.linkedin.com/in/gualter-albino-139851204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+
+<div align="center">
   <h2>Estatísticas:</h2>
   <a href="https://github.com/Guallter">
     
@@ -21,9 +26,14 @@
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />    
+  <img align="center" alt="Delphi" height="50" width="50" src="https://github.com/GualterAlbino/GualterAlbino/assets/89323330/eedbd860-1408-49ae-8ea2-757f711375ac">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="git"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
 <br>
 <div align="center" heigth="40" width="50">
 
@@ -38,10 +48,7 @@
  <!--[!Snake animation](https://github.com/GualterAlbino/GualterAlbino/blob/output/github-contribution-grid-snake.svg)-->
 
   
-<div align="center">
-  <h2>Contato:</h2>
-  <a href="https://www.linkedin.com/in/gualter-albino-139851204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
+
 
                                                                                                                             
 
