@@ -3,8 +3,6 @@
   <p><img src="https://readme-typing-svg.demolab.com/?lines=< / >%20&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&size=22&pause=3000"</p>
   <p><img src="https://readme-typing-svg.demolab.com/?lines=.%20.%20.%20&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&size=22&pause=3000"</p>
  
-    
-  ![](https://komarev.com/ghpvc/?username=GualterAlbino&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=false)
 </div>
 
 <div align="center">
@@ -43,6 +41,8 @@
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=Abacus&theme=react)](https://github.com/GualterAlbino/Abacus)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=CarteiraDeInvestimentos&theme=react)](https://github.com/GualterAlbino/CarteiraDeInvestimentos)
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gualteralbino&repo=ChatBot&theme=react)](https://github.com/GualterAlbino/ChatBot)
+
+![](https://komarev.com/ghpvc/?username=GualterAlbino&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=false)
 
 
   
