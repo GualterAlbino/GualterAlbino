@@ -52,9 +52,9 @@
 
 | | |
 |--- |--- |
-| **[Karto](https://github.com/GualterAlbino/Karto)** | Solução robusta para gestão e automação de fluxos de trabalho. |
-| **[Abacus](https://github.com/GualterAlbino/Abacus)** | Engine de processamento de dados e cálculos complexos com alta precisão. |
-| **[Carteira de Investimentos](https://github.com/GualterAlbino/CarteiraDeInvestimentos)** | Dashboard financeiro focado em análise de ativos e performance de carteira. |
+| **[WebServiceK6](https://github.com/GualterAlbino/WebServiceK6)** | Implementação pioneira de testes de carga que identificou uma falha crítica na principal API de um sistema Desktop. O projeto introduziu a cultura de Stress Testing na empresa, auxiliando a encontrar instabilidades severas em APIs Desktop. |
+| 
+| 
 
 ---
 
